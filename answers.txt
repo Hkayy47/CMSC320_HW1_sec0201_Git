@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: I believe Git is amazing for collaborating with people on projects, saving code for personal use and even finding open source code.
