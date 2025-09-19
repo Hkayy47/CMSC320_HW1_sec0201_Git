@@ -1,0 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: I believe Git is amazing for collaborating with people on projects, saving code for personal use and even finding open source code.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to all fields, any business or anything really.
+
